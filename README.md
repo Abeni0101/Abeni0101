@@ -36,19 +36,10 @@
 
 ---
 
-### 🛠 Tech Arsenal (Classified)
+### 🛠 Tech
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,threejs,figma,php,git,vscode,postman,docker&theme=dark" />
 </p>
-
----
-
-### 🌌 Engineering Philosophy
-> **"Code is the medium, but experience is the message."**
-
-* **Vector-Perfect UI:** Every pixel serves a purpose. No bloat.
-* **Performance First:** 60fps or it's a bug.
-* **Scalable Patterns:** Building systems, not just pages.
 
 ---
 
