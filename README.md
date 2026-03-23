@@ -43,6 +43,7 @@ const abenezer = {
   learning: "Advanced JavaScript & scalable UI patterns",
   principle: "Ship fast. Improve constantly. Stay sharp."
 };
+```
 ---
 
 ## 🚀 Featured Work
