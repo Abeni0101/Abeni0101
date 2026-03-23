@@ -31,7 +31,7 @@ Building interfaces that feel alive.
 ---
 
 ## 🧠 About Me (Developer Config)
-
+```javascript
 const abenezer = {
   role: "Frontend Developer",
   stack: ["HTML", "CSS", "JavaScript"],
