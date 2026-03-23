@@ -1,135 +1,76 @@
-<!-- ================================================= -->
+<div align="center">
 
-<!--                 ELITE PROFILE README              -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Abenezer%20Birhanu&fontSize=70&animation=fadeIn&fontAlignY=40" width="100%" />
 
-<!-- ================================================= -->
+### ⚡️ Creative UI Engineer & Frontend Architect
+`Interactive Experiences` • `Performance Engineering` • `Component Design`
 
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Abenezer%20Birhanu&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
-</p>
-
-<h3 align="center">
-Frontend Developer • Creative UI Engineer • Problem Solver
-</h3>
-
-<p align="center">
-Building interfaces that feel alive.
-</p>
-
----
-
-## ⚡ SYSTEM STATUS
-
-
-+ Currently Building: Standout Portfolio Projects
-! Focus: Interactive UI + API Driven Apps
-# Mission: Become top-tier frontend engineer
-
-
----
-
-## 🧠 About Me (Developer Config)
-# Hi, I'm Abenezer 👋
-
-### 🚀 Frontend Developer
-**Focus:** UI Engineering • Creative Development • Performance
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-> **Principle:** *Ship fast. Improve constantly. Stay sharp.*
----
-
-## 🚀 Featured Work
-
-<p align="center">
-
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abeni0101&repo=Placebook-website&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abeni0101&repo=LegalConnect&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
----
-
-## 🧰 Tech Arsenal
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,git,github,vscode,figma&perline=7" />
-</p>
-
----
-
-## 📊 Developer Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abeni0101&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Abeni0101&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abeni0101&theme=react-dark&hide_border=true"/>
-</p>
-
----
-
-## 🎯 2026 Goals
-
-* Build unforgettable UI experiences
-* Master animation & interaction design
-* Create real-world problem solving apps
-* Contribute consistently
-
----
-
-## 🧭 Philosophy
-
-> Good code works.
-> Great code communicates.
-> Elite code creates experience.
-
----
-
-## 🌐 Connect
-
-<p align="center">
+<br/>
 
 <a href="https://github.com/Abeni0101">
-<img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7aa2f7&center=true&vCenter=true&width=435&lines=Building+digital+realities.;Mastering+Advanced+JavaScript.;Optimizing+the+Critical+Rendering+Path." alt="Typing SVG" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Frontend_Specialist-111?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-Creative_Developer-111?style=for-the-badge&logo=framer&logoColor=white" />
+</p>
 
-<a href="mailto:abeni08656@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</div>
 
+---
+
+### 📡 System Diagnostics
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Abeni0101&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=9aa5ce" height="180px"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abeni0101&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9aa5ce" height="180px"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🛠 Tech Arsenal (Classified)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,threejs,figma,php,git,vscode,postman,docker&theme=dark" />
 </p>
 
 ---
 
+### 🌌 Engineering Philosophy
+> **"Code is the medium, but experience is the message."**
+
+* **Vector-Perfect UI:** Every pixel serves a purpose. No bloat.
+* **Performance First:** 60fps or it's a bug.
+* **Scalable Patterns:** Building systems, not just pages.
+
+---
+
+### 📂 Featured Operations
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abeni0101&repo=Placebook-website&theme=tokyonight&hide_border=true&title_color=7aa2f7" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abeni0101&repo=LegalConnect&theme=tokyonight&hide_border=true&title_color=7aa2f7" />
+</div>
+
+---
+
+### 🛰 Terminal Access
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Abeni0101&label=Profile%20Views&color=0e75b6&style=flat"/>
+<a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LINKEDIN-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=000" /></a>
+<a href="mailto:abeni08656@gmail.com"><img src="https://img.shields.io/badge/EMAIL-bb9af7?style=for-the-badge&logo=gmail&logoColor=000" /></a>
+<a href="https://github.com/Abeni0101"><img src="https://img.shields.io/badge/GITHUB-c0caf5?style=for-the-badge&logo=github&logoColor=000" /></a>
 </p>
 
-<!-- ================================================= -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Abeni0101/Abeni0101/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
 
-<!--                     END                           -->
-
-<!-- ================================================= -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abeni0101&label=UPLINK_ESTABLISHED&color=7aa2f7&style=flat-square" />
+</p>
