@@ -32,20 +32,17 @@ Building interfaces that feel alive.
 
 ## 🧠 About Me (Developer Config)
 
-<script>
-const developer = {
-  name: "Abenezer Birhanu",
+const abenezer = {
   role: "Frontend Developer",
-  code: ["HTML", "CSS", "JavaScript"],
-  interests: [
+  stack: ["HTML", "CSS", "JavaScript"],
+  focus: [
+    "UI Engineering",
     "Creative Development",
-    "UI Architecture",
     "Performance Optimization"
   ],
-  currentlyLearning: "Advanced JavaScript Patterns",
-  mindset: "Ship. Improve. Repeat."
+  learning: "Advanced JavaScript & scalable UI patterns",
+  principle: "Ship fast. Improve constantly. Stay sharp."
 };
-</script>
 ---
 
 ## 🚀 Featured Work
