@@ -22,17 +22,17 @@ Building interfaces that feel alive.
 
 ## ⚡ SYSTEM STATUS
 
-```diff
+
 + Currently Building: Standout Portfolio Projects
 ! Focus: Interactive UI + API Driven Apps
 # Mission: Become top-tier frontend engineer
-```
+
 
 ---
 
 ## 🧠 About Me (Developer Config)
 
-```js
+
 const developer = {
   name: "Abenezer Birhanu",
   role: "Frontend Developer",
@@ -45,7 +45,6 @@ const developer = {
   currentlyLearning: "Advanced JavaScript Patterns",
   mindset: "Ship. Improve. Repeat."
 };
-```
 
 ---
 
@@ -54,11 +53,11 @@ const developer = {
 <p align="center">
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abeni0101&repo=Placebook-website&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abeni0101&repo=LegalConnect&theme=tokyonight&hide_border=true"/>
 </a>
 
 </p>
@@ -68,7 +67,7 @@ const developer = {
 ## 🧰 Tech Arsenal
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,git,github,vscode,figma&perline=7" />
 </p>
 
 ---
@@ -77,9 +76,9 @@ const developer = {
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abeni0101&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Abeni0101&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -88,7 +87,7 @@ const developer = {
 ## 🔥 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abeni0101&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
@@ -114,7 +113,7 @@ const developer = {
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Abeni0101">
 <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -122,7 +121,7 @@ const developer = {
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:abeni08656@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -131,7 +130,7 @@ const developer = {
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Abeni0101&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 <!-- ================================================= -->
