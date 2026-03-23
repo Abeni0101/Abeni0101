@@ -31,19 +31,16 @@ Building interfaces that feel alive.
 ---
 
 ## 🧠 About Me (Developer Config)
-```javascript
-const abenezer = {
-  role: "Frontend Developer",
-  stack: ["HTML", "CSS", "JavaScript"],
-  focus: [
-    "UI Engineering",
-    "Creative Development",
-    "Performance Optimization"
-  ],
-  learning: "Advanced JavaScript & scalable UI patterns",
-  principle: "Ship fast. Improve constantly. Stay sharp."
-};
-```
+# Hi, I'm Abenezer 👋
+
+### 🚀 Frontend Developer
+**Focus:** UI Engineering • Creative Development • Performance
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+> **Principle:** *Ship fast. Improve constantly. Stay sharp.*
 ---
 
 ## 🚀 Featured Work
