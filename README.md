@@ -32,7 +32,7 @@ Building interfaces that feel alive.
 
 ## 🧠 About Me (Developer Config)
 
-
+<script>
 const developer = {
   name: "Abenezer Birhanu",
   role: "Frontend Developer",
@@ -45,7 +45,7 @@ const developer = {
   currentlyLearning: "Advanced JavaScript Patterns",
   mindset: "Ship. Improve. Repeat."
 };
-
+</script>
 ---
 
 ## 🚀 Featured Work
